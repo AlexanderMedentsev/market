@@ -1,0 +1,12 @@
+assets/*
+!assets/.gitignore
+protected/runtime/*
+!protected/runtime/.gitignore
+protected/data/*.db
+themes/classic/views/
+.env
+.idea
+/vendor
+docker
+/web/images
+!/web/images/default.png
