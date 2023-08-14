@@ -6,5 +6,3 @@ themes/classic/views/
 .idea
 /vendor
 docker
-/web/images
-!/web/images/default.png
